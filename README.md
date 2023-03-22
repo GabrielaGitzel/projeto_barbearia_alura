@@ -1,2 +1,2 @@
 # projeto_barbearia_alura
-Primeiro projeto em HTML e CSS
+<h1 align="center"> Primeiro projeto em HTML e CSS </h1>
